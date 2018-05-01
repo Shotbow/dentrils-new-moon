@@ -1,0 +1,139 @@
+[CENTER][IMG]https://i.imgur.com/FXrKQ6A.png[/IMG][/CENTER]
+ 
+[COLOR=#e64a19][SIZE=5][B]Updates[/B][/SIZE][/COLOR]
+[COLOR=#e64a19][SIZE=4][B]Network Updates[/B][/SIZE][/COLOR]
+We have some great news—1.12.2 support is currently being tested. Stay tuned for more info.
+
+[COLOR=#e64a19][SIZE=4][B]Annihilation Updates[/B][/SIZE][/COLOR]
+This month, many exciting things happened in Annihilation!
+
+To begin with, the Annihilation clan tournament continued, and was livestreamed here:
+https://www.youtube.com/watch?v=YME3VFtnN30&list=PLd36CzfUi9e6vKkQjOkT_Sbgw3djcpC-z&index=12
+
+Next up, we announced changes that will be coming to the way you join a team, which should hopefully fix the team stacking issue. Read all about it [URL='https://shotbow.net/forum/threads/changes-coming-to-the-way-you-join-a-team.385492/']here[/URL]!
+
+Finally, we had a large update patch to Annihilation, which included many new balances and cool features! Read all about it [URL='https://shotbow.net/forum/threads/annihilation-patch-april-28-2018.385900/']here[/URL].
+ 
+[COLOR=#e64a19][SIZE=4][B]Gold Rush Updates[/B][/SIZE][/COLOR]
+Development pace has increased on Gold Rush. You can view a stream of a staff test game that we held earlier this month here: https://youtu.be/e74qAFvCg9U
+
+[COLOR=#e64a19][SIZE=4][B]Slaughter Updates[/B][/SIZE][/COLOR]
+Two new maps have been added to Slaughter, Moria and Burrows.
+ 
+[COLOR=#e64a19][SIZE=5][B]Statistics[/B][/SIZE][/COLOR]
+[COLOR=#e64a19][SIZE=4][B]SMASH Rankings[/B][/SIZE][/COLOR]
+The 2018 Spring season is in session, so rack up that ELO quickly before it's over! The current standings are:
+[LIST]
+[*]1st - Acstes (1169)
+[*]2nd - _BrightDarkness_ (1169)
+[*]3rd - JirenX (1144)
+[/LIST]
+[COLOR=#e64a19][SIZE=4][B]Mine Theft Auto[/B][/SIZE][/COLOR]
+[B]MTA Leaderboards for April 2018[/B]
+Combat:
+[LIST]
+[*]1st - NeedVini KDR: 89:1 (89.0)
+[*]2nd - Wafuuu KDR: 42:1 (42.0)
+[*]3rd - AVAchqn KDR: 18:0 (18.0)
+[/LIST]
+Arrests:
+[LIST]
+[*]1st - clover0321 Arrests: 56.0
+[*]2nd - NoSkill_00 Arrests: 32.0
+[*]3rd - Tyrmo Arrests: 28.0
+[/LIST]
+Experience Gained:
+[LIST]
+[*]1st - _hage Experience gained: 145781.0
+[*]2nd - Nanacoro Experience gained: 71540.0
+[*]3rd - AMeno_ToRIFuNE Experience gained: 43409.0
+[/LIST]
+Minigames Won:
+[LIST]
+[*]1st - InfinityAura Minigames won: 120.0
+[*]2nd - DonutMaster35 Minigames won: 103.0
+[*]3rd - Geromo1561 Minigames won: 96.0
+[/LIST]
+[COLOR=#e64a19][SIZE=4][B]Network in General[/B][/SIZE][/COLOR]
+Staff updates:
+[LIST]
+[*]DocCodeSharp was promoted to Lead Developer
+[*]Lomrun_ was promoted to Full Builder and Co-Lead Builder
+[*]JTGangsterLP6 was promoted to Full Admin
+[*]windex_07 was promoted to Full Admin
+[*]Nalacion, Talef, and Pichu2002 joined the Mini Builder team
+[/LIST]
+Other statistics:
+[LIST]
+[*]A total of 120,671,421 XP was earned by players this month
+[*]There were 2,048 players banned in the last month
+[*]This month we achieved a peak playercount of [B]737[/B] on April 15
+[/LIST]
+[COLOR=#e64a19][SIZE=4][B]Player Peak[/B][/SIZE][/COLOR]
+This month, we are still up really high and close to 1,000 players online at one time. However, if we can hit over 1,000 players online at one time during the next month, we will do a Platinum rank giveaway on the Twitter!
+ 
+[B]What can I do?[/B]
+Play on Shotbow, invite your friends, and invite their friends! Make friends and invite them to Shotbow! Spread the word about our amazing games, and in return we'll work as hard as we can to make your experience the best it can possibly be. :)
+
+[COLOR=#e64a19][SIZE=5][B]Developer Corner[/B][/SIZE][/COLOR]
+We're trying something new this month. Last month the issue was raised that, despite some of our attempts at communicating development work, tasks, and what we've been doing - we've fallen short in being open enough with the community about the work we're doing.
+
+As such, starting this month - and hopefully for the next couple at least, we'll be hosting a Developer Corner in the New Moon. Here, we'll gather up data on what our developers have been working on, removing the classifieds, and running hype-control on it.
+
+AS ALWAYS, this is what we're [i]currently[/i] working on. There's no guarantee that it will come out soon - or in some cases [i]ever[/i]. Let me re-iterate: WE ARE NOT MAKING PROMISES HERE. You got that?? You hear me?? It's important for you to connect those dots if we're going to be more transparent. This is your reminder that our developers are volunteers, that they work in their free time as a hobby, and they do their damn best. I hope we're on the same page - so let's move on to what they've been working on!
+
+The interviews below are from the perspective of Navarr. Enjoy!
+
+[COLOR=#e64a19][SIZE=4][B]skillerfox3[/B][/SIZE][/COLOR]
+This past month, Skiller has been focusing his attention on Gold Rush and quality of life improvements across the network - as well as some fun cosmetic stuff.
+The most fun, perhaps, is a spiffy cake balloon made for the awesome Mint_LimeLemon
+[CENTER][IMG]https://i.imgur.com/2nqY9gy.jpg[/IMG][/CENTER]
+This is a very special one-of-a-kind balloon that, at least for the near future, no other player can get! This was awarded to Mint_LimeLemon after their awesome [url=https://twitter.com/Lemomint_Lemi/status/976283350926114816]twitter post of ANNIHILATION COOKIES![/url]
+Skiller also worked on quality of life improvements for Annihilation, including auto-complete for /vote, and admin commands.
+
+[COLOR=#e64a19][SIZE=4][B]DocCodeSharp[/B][/SIZE][/COLOR]
+Doc has spent this week working on improving our processes - including Quality Assurance & Testing for bug reports, patching our Spigot instances to more easily support Minecraft updates like 1.12.2 and 1.13.
+One big thing that Doc has also been working on is a long-term refactoring project for MineZ to improve the codebase and stability of the game.
+
+[COLOR=#e64a19][SIZE=4][B]Jeroenhero[/B][/SIZE][/COLOR]
+Jeroen's big projects are a new /help command (such as on SMASH) that will be localizable, making some pets, and some quality of life improvements across the network such as admin tooling.
+
+[COLOR=#e64a19][SIZE=4][B]Robertthegoat[/B][/SIZE][/COLOR]
+Robertthegoat was pleased to share with me the tonne of things he worked on this month. Most of which are sadly quality of life improvements and experimental features for current games like MineZ. However, on top of that he continued work on refactoring core pieces of the Wasted codebase (used for Wasted Sandbox, Gun Game, and Control), as well as spending some of his time on Gold Rush!
+
+[COLOR=#e64a19][SIZE=4][B]Galap[/B][/SIZE][/COLOR]
+This month, Galap's primary tasks have been quality of life improvements for Annihilation - such as beating back cheaters and work on the priority queuing system for defeating team stacking.
+
+[COLOR=#e64a19][SIZE=4][B]Navarr[/B][/SIZE][/COLOR]
+I’m also pleased to announce that I worked on Chat Bot this month - with significant assistance from Mistri. Unlike other pieces of Shotbow code, [url=https://github.com/Shotbow/ChatBot]Chat Bot is open Source and available for viewing on GitHub[/url]. Of particular note is the new command [B]!playercount[/B], which already has daily use in the Shotbow Discord - which can display the playercount across all of Shotbow or for an individual game, as well as some work being done to enable localization of the bot, allowing it to respond in a language appropriate for the Discord channel its in.
+
+That's it for the Developer Corner. Please let us know what you thought about it in the comments below. Thanks!
+
+[COLOR=#e64a19][SIZE=5][B]Letter from the Leads[/B][/SIZE][/COLOR]
+What follows is a letter from the Network Leads. Please enjoy!
+
+It's that time of year - we're in the slow part surrounding finals right before summer break. Although, you may not be able to notice that this week as it's the start of Golden Week - a week full of holidays for the Japanese here on the network. To those in Japan - enjoy your vacation! We'll be delighted if you decide to spend some of it on Shotbow.
+
+As Network Leads, it's our responsibility to do our best to keep an eye on the network, set the direction it's heading in, and ensure that we're doing the best we can do in all areas.
+
+It is in this vein that we've realized two significant areas we need to improve upon - which we may have already known, and which you may have also already known:
+
+Transparency & Marketing
+
+By the time you read this letter, you'll have noticed that we're already working hard to improve upon this facets of the network. In regards to marketing, we have launched a new mailing list that should allow us to send out update emails and more once again - without rendering the rest of our infra useless.
+
+In addition to that, we're putting more focus on our social media again - such as Facebook, and we've been streaming the Annihilation Tournament on multiple platforms at once - Twitch, Facebook, YouTube, Periscope, and Mixer. We're doing our best to start putting our content back out into the world to help drive players in. We hope to expand this focus to rehash our approach with voting websites.
+
+In the realm of transparency, we're encouraging developers to talk to the community about difficult implementations and changes we want to make to our games - such as the new queuing system in Annihilation.
+
+In addition to increasing community outreach and feedback, we're trialing a new monthly system to help inform players of what our developers are doing. You'll notice in this New Moon that there is a developer corner. We've spent the last month keeping an eye on the developers and, more honestly, asking them around the end of the month to tell us what they've been working on. We've compiled this and modified it to control the hype and ensure we're not making any promises in order to keep you in the know.
+
+Remember as always to keep realistic expectations of an all volunteer staff team - as many of them have finals coming up as well.
+
+These two facets are our primary focus this quarter. Though it goes without saying there is still a continued focus on getting new players, keeping our current playerbase, improving our games, and bringing new games - but we figure you'll read more about that in our Developer Corner.
+
+And as always, Thank you for flying Shotbow.
+We'll talk again soon.
+— Murgatron & Navarr
+
+With that, I bid you farewell. I'm your host, Mistri. See you next month!
