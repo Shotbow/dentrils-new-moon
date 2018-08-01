@@ -1,0 +1,119 @@
+[COLOR=#e64a19][SIZE=5][B]Letter from the Co-Lead[/B][/SIZE][/COLOR]
+[SIZE=4][I]by Navarr[/I][/SIZE]
+
+We have just completed the first third of the 2nd quarter! Let's review our goal.
+
+As you may or may not recall from the last letter, our goal this quarter is [i]Community Interaction[/i]. I am pleased to say that with the return of the Annihilation sandbox, our staff has done an enormous job of increasing community interaction and fun events.
+
+I actually went through the difficult work of tracking these events for you, and this month we had:
+[LIST]
+[*]1 Gold Rush event
+[*]4 SMASH events
+[*]1 Network Q&A Session (you can [url=https://www.youtube.com/watch?v=QKAs6j3i9us]view that here[/url])
+[*][i]and[/i] 33 Annihilation Sandbox events
+[/LIST]
+Let me tell you - the Anni team does not screw around when it comes to community interaction. In addition to what happened this path month, we're looking to bring back the Summer Festival again this month. You should expect a limited availability pet, some extra XP and some general fun - so keep some time on your calendar cleared away between the 24th and 26th of August!
+
+I mentioned in the last letter that there were two big pieces of our roadmap we're targeting for this quarter: 1.12.2 and a Gold Rush alpha. In that vein, I'm happy to announce that we now support Minecraft 1.12.2! In regards to Gold Rush, we may not be releasing an Alpha in the method we originally planned. We've been discussing it and we're not sure a limited alpha is the best way to get the sort of testing information we want. Your best bet for information on Gold Rush is to watch our Twitter account, here on the forums, and [url=http://eepurl.com/dsB8hn]subscribe to our mailing list[/url] if you haven't already.
+
+That is all I have to say this month. Please let us know how we're doing in regards to our Community Interaction goal in the comments, and how you think we're doing maintaining our improvements to transparency. I'm working hard to keep this ship sailing folks, and I need you to let me know if any leaks are popping up in the hull ;)
+
+Until next time - Thank you for flying Shotbow.
+
+[CENTER][IMG]https://i.imgur.com/FXrKQ6A.png[/IMG][/CENTER]
+
+Hello! This is Mistri and welcome to this month's edition of Dentril's New Moon!
+
+[COLOR=#e64a19][SIZE=5][B]Updates[/B][/SIZE][/COLOR]
+[COLOR=#e64a19][SIZE=4][B]Network Updates[/B][/SIZE][/COLOR]
+Quite a few things have happened to the network as a whole this month, including:
+[LIST]
+[*]We added support for 1.12.2 clients to connect
+[*]We have once again opened up the ability for the community to report bugs at https://shotbow.net/forum/p/bugs/
+[*]Weekly scheduled maintenance has moved from 7AM US CT to 7PM US CT on Mondays
+[*]All shotbow.net users now have the ability to view recent activity and history on the wiki
+[/LIST]
+[COLOR=#e64a19][SIZE=4][B]Discord Updates[/B][/SIZE][/COLOR]
+This month on the Discord, we cleaned up a few categories and the organization of our channels.
+
+In addition, Chat Bot also got a new command called [COLOR=cyan]!forums[/COLOR]. You can use it by doing one of the following:
+[LIST]
+[*]Use it in a gamemode-specific channel to get a direct link to the gamemode specific forum
+[*]Use it in any non-gamemode-specific channel to get a direct link to our general forums
+[*]Use it with an optional argument (e.g. [COLOR=cyan]!forums anni[/COLOR]) to get a gamemode-specific forum in any channel
+[/LIST]
+We hope you find this command helpful for your day-to-day chatting in our Discord. If you haven't joined yet, be sure to join [URL='https://discord.gg/shotbow']here[/URL]!
+
+[COLOR=#e64a19][SIZE=4][B]MineZ Updates[/B][/SIZE][/COLOR]
+Something is coming... but all we can say for now is that work is being continued on the Second Part of the Origins Update.
+
+[COLOR=#e64a19][SIZE=5][B]Statistics[/B][/SIZE][/COLOR]
+[COLOR=#e64a19][SIZE=4][B]SMASH Rankings[/B][/SIZE][/COLOR]
+The 2018 Summer season is in session, so rack up that ELO quickly before it's over! The current standings are:
+[LIST]
+[*]1st - Acstes (1156)
+[*]2nd - Ingavar (1133)
+[*]3rd - _BrightDarkness_ (1127)
+[/LIST]
+[COLOR=#e64a19][SIZE=4][B]Mine Theft Auto[/B][/SIZE][/COLOR]
+[B]MTA Leaderboards for July 2018[/B]
+Combat:
+[LIST]
+[*]1st - VenomousChewy KDR: 178:1 (178.0)
+[*]2nd - Famicoro KDR: 671:7 (95.86)
+[*]3rd - nabe4975 KDR: 68:1 (68.0)
+[/LIST]
+Arrests:
+[LIST]
+[*]1st - Sitnown Arrests: 119.0
+[*]2nd - The556 Arrests: 88.0
+[*]3rd - CraftPik Arrests: 86.0
+[/LIST]
+Experience Gained:
+[LIST]
+[*]1st - Shorp Experience gained: 55276.0
+[*]2nd - MESLEG Experience gained: 50865.0
+[*]3rd - Famicoro Experience gained: 23138.0
+[/LIST]
+Minigames Won:
+[LIST]
+[*]1st - Viral333 Minigames won: 118.0
+[*]2nd - KillerBrezel Minigames won: 86.0
+[*]3rd - iyami_ Minigames won: 56.0
+[/LIST]
+[COLOR=#e64a19][SIZE=4][B]Network in General[/B][/SIZE][/COLOR]
+Staff updates:
+[LIST]
+[*]Dange joined the SMASH Mini Admin Team
+[/LIST]
+Other statistics:
+[LIST]
+[*]A total of 89,830,696 XP was earned by players this month
+[*]There were 4,010 players banned in the last month
+[*]This month we achieved a peak playercount of [B]673[/B] on July 7
+[/LIST]
+ 
+[B]What can I do?[/B]
+Play on Shotbow, invite your friends, and invite their friends! Make friends and invite them to Shotbow! Spread the word about our amazing games, and in return we'll work as hard as we can to make your experience the best it can possibly be. :)
+
+[COLOR=#e64a19][SIZE=5][B]Developer Corner[/B][/SIZE][/COLOR]
+[SIZE=4][I]By Navarr[/I][/SIZE]
+
+[COLOR=#e64a19][SIZE=4][B]DocCodeSharp[/B][/SIZE][/COLOR]
+Doc has continued his work on MineZ and around the network in general. On the network side - we launched support for 1.12.2 this month which was in part a huge effort from Doc. Thanks! In particular news with MineZ, it was revealed that some pretty interesting work has gone into improving the combat system, with many early testers saying that they enjoy it a lot more than the currently live one. Doc has been working hard on this project for a while now, and he hopes to be able to get a public testing server up in the nearish future.
+
+[COLOR=#e64a19][SIZE=4][B]Robertthegoat[/B][/SIZE][/COLOR]
+Robert has continued his work on Gold Rush, as well as effort being put into potential future games on the network. Such efforts are still a good ways away from realization, and unfortunately that's really all we can say about them due to that fact.
+
+[COLOR=#e64a19][SIZE=4][B]Jeroenhero[/B][/SIZE][/COLOR]
+Jeroen spent a good portion of the month working with and exploring customization of Mob AI. Custom Mob AI has huge implications for possibilities in games such as Slaughter, Gold Rush, and When in Rogue - so efforts made here will have huge effects on our games for months to come.
+
+[COLOR=#e64a19][SIZE=4][B]Navarr[/B][/SIZE][/COLOR]
+Navarr (myself!) worked on a few small improvements to the network as well, working with Doc to bring back Bug Submissions and moving the scheduled maintenance period to a less interrupting time period - and working with IvanDoomy to bring the ability to view recent activity and wiki history to all potential wiki editors.
+
+[COLOR=#e64a19][SIZE=4][B]Expanding Team[/B][/SIZE][/COLOR]
+In addition to those reports, we've been talking with potential Jr. Developers. While nothing is 100% yet, I do know we have at least one good candidate we're hopeful to bring on in the next few weeks.
+
+Are you interested in a volunteer development position at Shotbow? Contact DocCodeSharp (on Discord or the forums) with a development history (such as jobs or other projects) and an example of a Spigot plugin you've built. Our goal with the latter is to see how you code, what you know, and how you use that knowledge - so heavy use of the Spigot/Bukkit APIs is encouraged for such a sample.
+
+With that, I bid you farewell. I'm your host, Mistri. Please let us know what you think about the New Moon in the comments. Thanks for flying Shotbow!
