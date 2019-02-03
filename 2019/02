@@ -1,0 +1,123 @@
+[CENTER][IMG]https://i.imgur.com/UNOazlr.jpg[/IMG][/CENTER]
+
+[COLOR=#e64a19][SIZE=6][B]Letter from the Lead — Murgatron[/B][/SIZE][/COLOR]
+
+Hello everyone and welcome to another new year at Shotbow :) Like last year I’d like to share some plans with you that we have for 2019. But before that let’s talk about 2018 and how we got on with our ambitions!
+ 
+[COLOR=#e64a19][SIZE=5][B]Annihilation[/B][/SIZE][/COLOR]
+[COLOR=#e64a19][SIZE=4][B]Tournament[/B][/SIZE][/COLOR]
+After an absolutely staggering response, with 48 teams registering their interest, the tournament began in earnest in March 2018 with the last quarter final match playing out in June. It was an absolute joy and pleasure to spectate and commentate on all the various tactics and strategies employed by the teams and to see how truly effective an organised clan can be!
+ 
+This was the first tournament our staff team has run, so we have learned plenty for any future events we put on. As you may have seen, we held the final of January 26th 2019, which you can see [URL='https://www.youtube.com/watch?v=1pu_s4apl8E']here[/URL].
+ 
+[SIZE=3]The reason for the delay was due to several factors but ultimately I felt it was best we kept going and finally played that last match for the teams who had earned their chance to be crowned champions![/SIZE]
+ 
+[COLOR=#e64a19][SIZE=4][B]Priority Queue[/B][/SIZE][/COLOR]
+The long awaited [URL='https://shotbow.net/forum/threads/priority-queue.391198/']team balancing mechanic[/URL] made its public debut back in December of last year and we’re very happy with the initial results. There has been some suggestions to amend the system to try and be even more fair to players in later phases of the game and we are discussing these internally.
+ 
+[COLOR=#e64a19][SIZE=4][B]PvP Update[/B][/SIZE][/COLOR]
+We were very happy to release the [URL='https://shotbow.net/forum/threads/major-combat-update.390673/']PvP update[/URL] to Annihilation much early than expected, thanks to Doc's work on tweaking the PvP in MineZ. We will always strive to emulate 1.7 / 1.8 as closely as possible and we will continue to mirror any changes from MineZ in Annihilation to ensure we offer a better experience for our players!
+ 
+[COLOR=#e64a19][SIZE=5][B]Gold Rush, Wasted Control, and MineZ Origins Part 2[/B][/SIZE][/COLOR] 
+During the summer of 2018 Shotbow suffered a massive attack from several groups who crashed servers using methods to overwhelm the processing capabilities both ingame and externally.
+ 
+Whilst external efforts were somewhat mitigated by our host at the time our [U][B]entire[/B][/U] development team were tasked to prevent the ingame crashing caused by these exploits. This in turn severely delayed our efforts on Gold Rush, Wasted and MineZ Origins Part 2.
+ 
+These exploits were sadly not just limited to Annihilation and could have been easily replicated in any gamemode. This made us hesitant to release Gold Rush as we wanted the gamemode to have a fair chance of being played without a bad experience of connectivity.
+ 
+[COLOR=#e64a19][SIZE=5][B]MineZ[/B][/SIZE][/COLOR]
+Despite delays to the release of Origins Part 2, Doc worked tirelessly on MineZ over the past year and managed to release several updates to our oldest and most iconic mode!
+ 
+Given how old MineZ is Doc took it upon himself to recode the entire gamemode from the ground up - no small feat! This meant that not only were there big performance increases but it also allowed the team to crush some longstanding bugs, implement new features to improve the quality of life of the game (dungeon instances as one example!) as well as many, many more. A full explanation can be found [URL='https://shotbow.net/forum/threads/ptr-update-changelog.390241/']here[/URL].
+ 
+As mentioned previously the PvP was updated to better reflect 1.7 / 1.8 combat. Doc along with the rest of the MineZ team [URL='https://shotbow.net/forum/threads/minez-update-changelog.391873']continue to refine and tweak PvP [/URL]and are still keen to hear from more players in the community about all points of view on it - good and bad!
+ 
+[COLOR=#e64a19][SIZE=5][B]Chat Filter[/B][/SIZE][/COLOR]
+This project was being headed up by SocomX1 who sadly left us early on in 2018 due to commitments in real life. As such, with our limited development resources, we had no-one to take up the project in his absence. We are still looking into this project as we feel it's important to our future to ensure a community space for players of all sorts. 
+ 
+[COLOR=#e64a19][SIZE=5][B]Future Plans[/B][/SIZE][/COLOR]
+For the coming year we’re happy to announce that [B][COLOR=#ffcc00]Gold Rush[/COLOR][/B] is now ready for a long weekend open test. This will be to gauge the community's enthusiasm for it and get your feedback to help shape the future of the gamemode. We’re planning to host this long weekend in the coming weeks, keep an eye out for future announcements![/SIZE]
+ 
+There are several small updates to [COLOR=#cc99ff][B][COLOR=#ff0000]Anni[/COLOR][COLOR=#ffff00]hi[/COLOR][COLOR=#3366ff]lati[/COLOR][COLOR=#00ff00]on[/COLOR][/B][/COLOR] currently in the works. Most are quality of life changes but will also include some tweaks to underused classes to bring them in line with other comparable classes. With the conclusion of the tournament the team is considering another one and are keen to hear what we should do differently this time round (we've learned quite a bit from the past year!).
+ 
+Doc has released a revised schedule for [B][COLOR=red]MineZ [/COLOR][/B]for the coming year that you can read all about [URL='https://shotbow.net/forum/threads/february-monthly-announcement.391984/']here[/URL].
+ 
+Red_Epicness is continuing his SMASH-ing work redoing [B][COLOR=#ff6600]SMASH[/COLOR][/B] from the ground up as his first project on Shotbow. We hope to have some early tests ready to go this year for you all to see!
+ 
+Last year we briefly blocked connections from players on VPN’s and proxies to help counter and reduce the impact of the attacks that occured during summer. After further discussion internally it has been agreed that will re-enable this restriction again to aid our administration teams. We apologise to players who utilise a VPN for legitimate reasons but sadly the pros greatly outweigh the cons.
+ 
+Our development team continues to update our backend infrastructure with support from [B][COLOR=#ff0000]DDG [/COLOR][/B]to increase our stability, resilience and ability to quickly troubleshoot issues with some major changes behind the scenes due this year.
+ 
+Over the past year it's became increasingly clear that we've not been living up to the expectations of our players with respects to the support email. This has been hampered by both myself and HighlifeTTU becoming increasingly committed IRL with matters, reducing our available time to respond in a timely fashion to players who need our attention.
+ 
+We are deeply, deeply sorry for this. To this extent we have revised our pathways for the most common requests and have created two google forms - [URL='https://goo.gl/forms/V81feK1nuPqfTCBm2']one for disputed payments[/URL] and [URL='https://goo.gl/forms/Kes0RD4O1ivIjjM83']one for rank upgrade requests[/URL] - to capture all information required, allowing us to reduce our time spent asking for details to progress support tickets. We have also released two new balloons to our Emerald and Obsidian players as our way of saying thank you very much for your patience and support over the last year.
+ 
+Starting this month we have also decided to archive all outstanding requests and start afresh. If you had not yet received a reply to your support request we would kindly ask you to resubmit - please use the google forms above if they are appropriate for your enquiry.
+ 
+This month marks our [B]7th birthday[/B] - quite the impressive feat!
+ 
+Thanks for flying Shotbow, see you all ingame soon! :)
+ 
+P.S. - Have an XP Code on us - [B]YEAR7[/B]
+
+[CENTER][IMG]https://i.imgur.com/FXrKQ6A.png[/IMG][/CENTER]
+ 
+Hey Shotbow! Hope you enjoyed the letter from the leads. I'm here now to tell you all about this last month's updates in Dentril's New Moon.
+
+[COLOR=#e64a19][SIZE=5][B]Updates[/B][/SIZE][/COLOR]
+[COLOR=#e64a19][SIZE=4][B]Network Updates[/B][/SIZE][/COLOR]
+To celebrate our our 7th birthday, we're adding a [B][COLOR=#00ff00]+7x XP multiplier[/COLOR][/B] for one day! Join us on Wednesday February 6 for an XP-filled day!
+
+[COLOR=#e64a19][SIZE=4][B]Annihilation Updates[/B][/SIZE][/COLOR]
+This month we completed our Annihilation Spring 2018 Tournament (now renamed to the Annihilation 21st Century Tournament), and the results can be found here. The livestream is now available [URL='https://shotbow.net/forum/threads/annihilation-tournament-final-match.391795/']online[/URL] and I was on the edge of my seat watching this thrill-inducing game — I would highly recommend watching it if you have a few free minutes!
+
+[COLOR=#e64a19][SIZE=4][B]MineZ Updates[/B][/SIZE][/COLOR]
+At the beginning of the month, we ended our hiatus to MineZ Revelations, our podcast, by releasing the 4th episode. It's pretty well produced, so check it out [URL='https://shotbow.net/forum/threads/minez-revelations-episode-4-anomaly.391468/']here[/URL]!
+
+And more recently, just a few days ago in fact, Doc released the February monthly announcement thread that went over the tons of updates that happened to MineZ: including the release of the Re-Code update! You can read all about it [URL='https://shotbow.net/forum/threads/february-monthly-announcement.391984/']here[/URL].
+
+[COLOR=#e64a19][SIZE=4][B]SMASH Updates[/B][/SIZE][/COLOR]
+Last but certainly not least, SMASH had its 6th anniversary this last month! In celebration, old game mechanics and lobbies are back to bring some nostalgia to old players. Read all about what happened [URL='https://shotbow.net/forum/threads/smashs-6th-anniversary.391645/']here[/URL]!
+
+[COLOR=#e64a19][SIZE=5][B]Statistics[/B][/SIZE][/COLOR]
+[COLOR=#e64a19][SIZE=4][B]SMASH Rankings[/B][/SIZE][/COLOR]
+The winter season is in session, so rack up that ELO quickly before it's over! The current standings are:
+[LIST]
+[*]1st - _Noba [plain](1108)[/plain]
+[*]2nd - jiren74 (1099)
+[*]3rd - Cometcat13 (1083)
+[/LIST]
+[COLOR=#e64a19][SIZE=4][B]Mine Theft Auto[/B][/SIZE][/COLOR]
+[B]MTA Leaderboards for January 2019[/B]
+Combat:
+[LIST]
+[*]1st - Rewrited KDR: 199:2 (99.5)
+[*]2nd - mame2928 KDR: 69:1 (69.0)
+[*]3rd - XM_X1 KDR: 50:1 (50.0)
+[/LIST]
+Arrests:
+[LIST]
+[*]1st - MESLEG Arrests: 69.0
+[*]2nd - Pufferfish_Pete Arrests: 19.0
+[*]3rd - EnergyCharger Arrests: 17.0
+[/LIST]
+Experience Gained:
+[LIST]
+[*]1st - MESLEG Experience gained: 89001.0
+[*]2nd - Massive_Legend__ Experience gained: 82484.0
+[*]3rd - Rewrited Experience gained: 48592.0
+[/LIST]
+Minigames Won:
+[LIST]
+[*]1st - MESLEG Minigames won: 91.0
+[*]2nd - Pumpkin20Y Minigames won: 56.0
+[*]3rd - Viral333 Minigames won: 46.0
+[/LIST]
+[COLOR=#e64a19][SIZE=4][B]Network in General[/B][/SIZE][/COLOR]
+Other statistics:
+[LIST]
+[*]A total of 50,313,385 XP was earned by players this month
+[*]There were 2,596 players banned in the last month
+[*]This month, we reached a peak playercount of [B]416[/B] on January 27
+[/LIST]
+With that, I bid you farewell. I'm your host, Mistri. Please let us know what you think about the New Moon in the comments. Thanks for flying Shotbow!
